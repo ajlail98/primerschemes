@@ -36,11 +36,12 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "collections": [
         "QUICK-LAB",
         "WHOLE-GENOME",
-        "WASTE-WATER",
-        "ARTIC"
+        "ARTIC",
+        "CLINICAL-ISOLATES",
+        "WASTE-WATER"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

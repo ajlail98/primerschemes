@@ -1,5 +1,5 @@
 {
- "github-commit-sha": "6e8c39310ddb1ca12a8786ec97a989379a8e0789",
+ "github-commit-sha": "27e3659314a0458c460041e69253dc8b0fbb05eb",
  "primerschemes": {
   "artic-measles": {
    "400": {
@@ -13,10 +13,11 @@
      ],
      "citations": [],
      "collections": [
+      "ARTIC",
       "QUICK-LAB",
-      "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-measles/400/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -49,7 +50,7 @@
       "QUICK-LAB",
       "WHOLE-GENOME",
       "ARTIC",
-      "CLINAL-ISOLATES"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-pan-ebola/1000/v1.0.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -83,8 +84,9 @@
      "collections": [
       "QUICK-LAB",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "ARTIC",
+      "CLINICAL-ISOLATES",
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v1.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -112,10 +114,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
-      "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
+      "ARTIC",
+      "QUICK-LAB"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v2.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -143,10 +146,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
-      "WHOLE-GENOME",
+      "ARTIC",
       "WASTE-WATER",
-      "ARTIC"
+      "CLINICAL-ISOLATES",
+      "QUICK-LAB",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v3.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -172,10 +176,11 @@
      ],
      "citations": [],
      "collections": [
-      "QUICK-LAB",
+      "CLINICAL-ISOLATES",
+      "ARTIC",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "QUICK-LAB",
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -203,10 +208,11 @@
       "https://doi.org/10.1038/nprot.2017.066"
      ],
      "collections": [
-      "QUICK-LAB",
+      "ARTIC",
+      "CLINICAL-ISOLATES",
       "WHOLE-GENOME",
       "WASTE-WATER",
-      "ARTIC"
+      "QUICK-LAB"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v4.1.0/info.json",
      "license": "CC-BY-4.0",
@@ -232,10 +238,11 @@
      ],
      "citations": [],
      "collections": [
-      "QUICK-LAB",
       "WHOLE-GENOME",
+      "ARTIC",
+      "QUICK-LAB",
       "WASTE-WATER",
-      "ARTIC"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -262,9 +269,10 @@
      "citations": [],
      "collections": [
       "QUICK-LAB",
-      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
       "WASTE-WATER",
-      "ARTIC"
+      "ARTIC",
+      "WHOLE-GENOME"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.2.0/info.json",
      "license": "CC-BY-4.0",
@@ -291,10 +299,11 @@
      ],
      "citations": [],
      "collections": [
+      "CLINICAL-ISOLATES",
       "QUICK-LAB",
+      "ARTIC",
       "WHOLE-GENOME",
-      "WASTE-WATER",
-      "ARTIC"
+      "WASTE-WATER"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.3.2/info.json",
      "license": "CC-BY-4.0",
@@ -309,6 +318,387 @@
       2697049
      ],
      "status": "validated"
+    },
+    "v5.4.2": {
+     "algorithmversion": "primalscheme2:1.0.0",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Artic Network",
+      "Quick Lab",
+      "BCCDC"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES",
+      "QUICK-LAB",
+      "ARTIC",
+      "WASTE-WATER"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/info.json",
+     "license": "CC-BY-4.0",
+     "primer_bed_md5": "e7897c8be8e488836ce7777e7709ea53",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "d11d06b5d1eb1d85c69e341c3c026e08",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/artic-sars-cov-2/400/v5.4.2/reference.fasta",
+     "schemename": "artic-sars-cov-2",
+     "schemeversion": "v5.4.2",
+     "species": [
+      2697049
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "avrl-h5n1-hpai": {
+   "250": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1:1.4.1",
+     "ampliconsize": 250,
+     "articbedversion": "v3.0",
+     "authors": [
+      "David H. O'Connor",
+      "Thomas C. Friedrich"
+     ],
+     "citations": [],
+     "collections": [],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/avrl-h5n1-hpai/250/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "99f7412372174568d005a9efc52a4be3",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/avrl-h5n1-hpai/250/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "5f8d80d402f136c4b0f6262af92e3f70",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/avrl-h5n1-hpai/250/v1.0.0/reference.fasta",
+     "schemename": "avrl-h5n1-hpai",
+     "schemeversion": "v1.0.0",
+     "species": [
+      102793
+     ],
+     "status": "draft"
+    }
+   }
+  },
+  "grubaugh-dev1": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chantal Vogels",
+      "Verity Hill",
+      "Mallery I Breban",
+      "Chrispin Chaguza",
+      "Afeez Sodeinde",
+      "Emma Taylor-Salmon",
+      "Abigail J. Porzucek",
+      "Nathan D Grubaugh"
+     ],
+     "citations": [
+      "https://doi.org/10.1186/s12864-024-10350-x"
+     ],
+     "collections": [
+      "WHOLE-GENOME",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev1/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "d9313af2b6e87cf9afc0fee4d17ebeb0",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev1/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "cad1eaac8e6d90db62c25c8a8b9a644b",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev1/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-dev1",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11053
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "grubaugh-dev2": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chantal Vogels",
+      "Verity Hill",
+      "Mallery I Breban",
+      "Chrispin Chaguza",
+      "Afeez Sodeinde",
+      "Emma Taylor-Salmon",
+      "Abigail J. Porzucek",
+      "Nathan D Grubaugh"
+     ],
+     "citations": [
+      "https://doi.org/10.1186/s12864-024-10350-x"
+     ],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev2/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "d57ba5b105236d5df89ce440a1da63a2",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev2/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "9736a9a27e5ffeacd1c94019123af2f0",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev2/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-dev2",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11060
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "grubaugh-dev3": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chantal Vogels",
+      "Verity Hill",
+      "Mallery I Breban",
+      "Chrispin Chaguza",
+      "Afeez Sodeinde",
+      "Emma Taylor-Salmon",
+      "Abigail J. Porzucek",
+      "Nathan D Grubaugh"
+     ],
+     "citations": [
+      "https://doi.org/10.1186/s12864-024-10350-x"
+     ],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev3/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "bcbe1286c8c3e415764ed20fe4aa7a09",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev3/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "b0775470da71b7e22b05ab404755762e",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev3/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-dev3",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11069
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "grubaugh-dev4": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Chantal Vogels",
+      "Verity Hill",
+      "Mallery I Breban",
+      "Chrispin Chaguza",
+      "Afeez Sodeinde",
+      "Emma Taylor-Salmon",
+      "Abigail J. Porzucek",
+      "Nathan D Grubaugh"
+     ],
+     "citations": [
+      "https://doi.org/10.1186/s12864-024-10350-x"
+     ],
+     "collections": [
+      "WHOLE-GENOME",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev4/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "472825670930a1f8a4333a3fe72259cc",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev4/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "fd26f6849d42201db457b46461554839",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-dev4/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-dev4",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11070
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "grubaugh-mpox": {
+   "2000": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 2000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Nicholas F.G. Chen",
+      "Luc Gagne",
+      "Glen R. Gallagher",
+      "Chantal B.F. Vogels"
+     ],
+     "citations": [
+      "https://doi.org/10.1371/journal.pbio.3002151"
+     ],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-mpox/2000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "f9fe29b44517167f18f9eaf66a141c44",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-mpox/2000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "585ffed8901fb4478dae3b9895e14376",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-mpox/2000/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-mpox",
+     "schemeversion": "v1.0.0",
+     "species": [
+      10244
+     ],
+     "status": "validated"
+    }
+   }
+  },
+  "grubaugh-powassan-virus": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Chantal Vogels",
+      "Nathan Grubaugh"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-powassan-virus/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "0ace7f3f32d025559f81cf7848bd96ca",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-powassan-virus/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "45de4c26388d5f33eeb33d03eaa6594d",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-powassan-virus/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-powassan-virus",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11082
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "grubaugh-strep-pneumo": {
+   "2000": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 2000,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Freddy Gonzalez",
+      "Isabella Distefano",
+      "Chaney Kalinich",
+      "Seth Redmond",
+      "Nathan Grubaugh"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-strep-pneumo/2000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "ca2090fa4c64b75fd5d83c2f7858908f",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-strep-pneumo/2000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "fe6730ebb4572f3e7d3e6d7f9bf45bdb",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-strep-pneumo/2000/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-strep-pneumo",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1313
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "grubaugh-tb": {
+   "2000": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 2000,
+     "articbedversion": "v2.0",
+     "authors": [
+      "Chaney Kalinich",
+      "Freddy Gonzalez",
+      "Isabella Distefano",
+      "Seth Redmond",
+      "Nathan Grubaugh"
+     ],
+     "citations": [],
+     "collections": [
+      "WHOLE-GENOME",
+      "COMMUNITY"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-tb/2000/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "7e720bec9e7f68eb367f5a67024a93b1",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-tb/2000/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "a5cd7cf2ad058fcad2e341d285cf16d7",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-tb/2000/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-tb",
+     "schemeversion": "v1.0.0",
+     "species": [
+      1773
+     ],
+     "status": "tested"
+    }
+   }
+  },
+  "grubaugh-west-nile-virus": {
+   "400": {
+    "v1.0.0": {
+     "algorithmversion": "primalscheme1",
+     "ampliconsize": 400,
+     "articbedversion": "v3.0",
+     "authors": [
+      "Nicole Feriancek",
+      "Chantal Vogels",
+      "Nathan Grubaugh"
+     ],
+     "citations": [],
+     "collections": [
+      "COMMUNITY",
+      "WHOLE-GENOME"
+     ],
+     "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-west-nile-virus/400/v1.0.0/info.json",
+     "license": "CC BY-SA 4.0",
+     "primer_bed_md5": "8573a30b249950a1ae418d2c1a1c9c7e",
+     "primer_bed_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-west-nile-virus/400/v1.0.0/primer.bed",
+     "primerclass": "primerschemes",
+     "reference_fasta_md5": "52385748c447473eea248d081b03eb1b",
+     "reference_fasta_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/grubaugh-west-nile-virus/400/v1.0.0/reference.fasta",
+     "schemename": "grubaugh-west-nile-virus",
+     "schemeversion": "v1.0.0",
+     "species": [
+      11082
+     ],
+     "status": "tested"
     }
    }
   },
@@ -358,7 +748,8 @@
      "citations": [],
      "collections": [
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "WHOLE-GENOME",
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/500/v1.0.0/info.json",
      "license": "CC-BY-4.0",
@@ -384,6 +775,7 @@
      ],
      "citations": [],
      "collections": [
+      "CLINICAL-ISOLATES",
       "QUICK-LAB",
       "WHOLE-GENOME"
      ],
@@ -414,8 +806,9 @@
      ],
      "citations": [],
      "collections": [
+      "WHOLE-GENOME",
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.0.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -442,8 +835,9 @@
      ],
      "citations": [],
      "collections": [
+      "WHOLE-GENOME",
       "QUICK-LAB",
-      "WHOLE-GENOME"
+      "CLINICAL-ISOLATES"
      ],
      "info_json_url": "https://raw.githubusercontent.com/quick-lab/primerschemes/main/primerschemes/hbv/600/v2.1.0/info.json",
      "license": "CC BY-SA 4.0",
@@ -457,7 +851,7 @@
      "species": [
       10407
      ],
-     "status": "tested"
+     "status": "validated"
     }
    }
   },

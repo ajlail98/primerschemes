@@ -35,10 +35,11 @@ Schemes generated for the Hepatitis B virus (hbv)
     "articbedversion": "v3.0",
     "collections": [
         "QUICK-LAB",
-        "WHOLE-GENOME"
+        "WHOLE-GENOME",
+        "CLINICAL-ISOLATES"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],

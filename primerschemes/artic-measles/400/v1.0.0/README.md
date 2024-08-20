@@ -4,7 +4,7 @@
 
 ## Description
 
-A pan Measles morbillivirus scheme. All full length genomes have been downloaded and phylogenicly downsampled to 0.95 RTL.
+A pan Measles morbillivirus scheme. All full length genomes have been downloaded and phylogenetically downsampled to 0.95 RTL.
 
 ## Overviews
 
@@ -34,19 +34,20 @@ A pan Measles morbillivirus scheme. All full length genomes have been downloaded
     "infoschema": "v2.0.0",
     "articbedversion": "v3.0",
     "collections": [
+        "ARTIC",
         "QUICK-LAB",
-        "WHOLE-GENOME",
         "WASTE-WATER",
-        "ARTIC"
+        "WHOLE-GENOME",
+        "CLINICAL-ISOLATES"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],
         "misc": []
     },
-    "description": "A pan Measles morbillivirus scheme. All full length genomes have been downloaded and phylogenicly downsampled to 0.95 RTL.",
+    "description": "A pan Measles morbillivirus scheme. All full length genomes have been downloaded and phylogenetically downsampled to 0.95 RTL.",
     "derivedfrom": null,
     "contactinfo": null
 }

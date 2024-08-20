@@ -33,12 +33,13 @@ Schemes generated for the SARs-CoV-2 Outbreak
     "articbedversion": "v3.0",
     "collections": [
         "QUICK-LAB",
-        "WHOLE-GENOME",
+        "CLINICAL-ISOLATES",
         "WASTE-WATER",
-        "ARTIC"
+        "ARTIC",
+        "WHOLE-GENOME"
     ],
     "links": {
-        "protocals": [],
+        "protocols": [],
         "validation": [],
         "homepage": [],
         "vendors": [],
